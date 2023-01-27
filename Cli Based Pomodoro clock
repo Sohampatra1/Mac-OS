@@ -5,6 +5,7 @@
 # Requires https://github.com/julienXX/terminal-notifier to be installed
 
 # Mac setup for pomo
+
 alias work="timer 60m && terminal-notifier -message 'Pomodoro'\
         -title 'Work Timer is up! Take a Break 😊'\
         -appIcon '~/Pictures/pumpkin.png'\
@@ -15,6 +16,8 @@ alias rest="timer 10m && terminal-notifier -message 'Pomodoro'\
         -sound Crystal"
         
         
+        
+        # Attatche all the codes in .zshrc file
         
         #work
         #rest .... command
