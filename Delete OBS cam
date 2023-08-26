@@ -1,0 +1,2 @@
+sudo rm -rf /Library/CoreMediaIO/Plug-Ins/DAL/obs-mac-virtualcam.plugin
+sudo rm -rf /Library/Application\ Support/obs-studio/plugins/obs-mac-virtualcam
